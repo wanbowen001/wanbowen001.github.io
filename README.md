@@ -1,6 +1,6 @@
 ## Welcome to WanBowen Page
 
-### Odoo开发填坑
+### Odoo开发填坑（2019-07-02）[点击阅读](https://github.com/wanbowen001/wanbowen001.github.io/blob/master/Odoo%E5%BC%80%E5%8F%91%E5%A1%AB%E5%9D%91.md)
 
 You can use the [editor on GitHub](https://github.com/wanbowen001/wanbowen001.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
